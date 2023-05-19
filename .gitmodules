@@ -1,0 +1,3 @@
+[submodule "nost"]
+	path = nost
+	url = https://github.com/nost-lang/nost.git
